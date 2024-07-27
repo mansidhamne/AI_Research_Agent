@@ -13,10 +13,12 @@ Before starting any research project, conducting a literature survey is the most
   To create chats using GPT-4o-mini
 
 ### Usage
-Enter your OpenAI and MultiOn API keys in the text inputs.
+Enter your OpenAI and MultiOn API keys in the text inputs. 
+<br><br>
 <img width="914" alt="Screenshot 2024-07-27 at 10 51 50 PM" src="https://github.com/user-attachments/assets/cbcf5eab-fa8f-4802-ac9f-55b59bc99118">
 
 Once your API key is verified, enter your search query. You will thus be able to see the research papers in the given format, streamlining literature survey. 
+<br><br>
 <img width="887" alt="Screenshot 2024-07-27 at 10 51 45 PM" src="https://github.com/user-attachments/assets/7c2ce899-8bfb-4d9e-8cc0-16dcf9820797">
 
 ### Installation
